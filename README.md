@@ -11,10 +11,7 @@
 
 [news](https://github.com/merazlab/robita/blob/main/news.md)
 
-[news](https://github.com/merazlab/robita/blob/main/news.md){:target="_blank"}
-
-<button class="button-link large">Computer vision </button>
-
+[news](https://github.com/merazlab/robita/blob/main/news.md)
 
 
 
