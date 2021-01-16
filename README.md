@@ -13,6 +13,8 @@
 
 [news](https://github.com/merazlab/robita/blob/main/news.md)
 
+[How to Start Reasearch] (https://ucsd-cse-dllab.github.io/FA20/schedule.html)
+
 
 
 
